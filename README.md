@@ -46,9 +46,9 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ## Screenshots
 
-![desktop screenshot]("./assets/screenshots/desktop.jpg")
-![ipad screenshot]("./assets/screenshots/ipad.jpeg")
-![phone screenshot]("./assets/screenshots/phone.jpeg")
+![desktop screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/desktop.jpg?raw=true)
+![ipad screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/ipad.jpeg?raw=true)
+![phone screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/phone.jpeg?raw=true)
 
 ## Features
 
