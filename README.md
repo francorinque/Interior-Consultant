@@ -8,12 +8,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-consultant-seven-tau.vercel.app/">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
@@ -27,15 +23,15 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Screenshots](#screenshots)
-- [Features](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-<!-- ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png) -->
+![desktop screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/desktop.jpg?raw=true)
+![ipad screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/ipad.jpeg?raw=true)
+![phone screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/phone.jpeg?raw=true)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -44,21 +40,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - What have you learned/improved?
 - Your wisdom? :)
 
-## Screenshots
-
-![desktop screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/desktop.jpg?raw=true)
-![ipad screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/ipad.jpeg?raw=true)
-![phone screenshot](https://github.com/francorinque/Interior-Consultant/blob/master/assets/screenshots/phone.jpeg?raw=true)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-<!-- This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories. -->
-
 ## Contact
 
-<!--
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username}) -->
+
+- GitHub [@francorinque](https://github.com/francorinque)
+- Linkedin [@francoagustinrinque](https://www.linkedin.com/in/franco-agustin-rinque)
